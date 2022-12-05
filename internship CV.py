@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+#the results of this step is on the link 
+#disk with employee and empty disk
+#https://disk.yandex.ru/d/Iv0R6pHcRFdkQg
+
 # In[6]:
 
 
